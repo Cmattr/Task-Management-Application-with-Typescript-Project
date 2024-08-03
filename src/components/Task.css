@@ -1,0 +1,24 @@
+.NavBar{
+    background-color: rgb(55, 160, 246);
+    color: white;
+    text-align: center;
+    padding: 10px
+}
+
+.NavItem{
+    color: White;
+    Margin: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.card{
+    background-color: rgb(55, 160, 246);
+    color: white;
+    Margin:10px;
+    border: silver, 3px, ridge;
+    padding: 10px;
+    width: 300px;
+    height: auto;
+
+}
