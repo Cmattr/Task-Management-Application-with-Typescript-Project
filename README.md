@@ -1,3 +1,31 @@
+Task Management Application.
+Welcome to The Task Management Website. This website is designed to display, create, edit and delete Task from your daily TO-DO List.
+1. Home Page: Welcome message with a navigation bar to the Task dashboard page. Also included is a call to action button labeled "Sign In" that will navigate user to the Sign in authentication screen from Auth0.
+2. Task Dashboard: A page that will allow you to view, add, edit, and Delete Task from your task list.
+3. Login/Logout: The Home-page will prompt the user to login or create an account. Once logged in the user will be auto-directed to the Task Dashboard. The Login funciton will be replaced by log out, which can be found in the same location on the homepage or just below the navigation bar on the Task Dashboard.
+
+
+
+
+- Installation and Setup
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/cmattr/Task-Management-Application-with-Typescript-Project.git
+    ```
+2. Navigate to the project directory:
+```sh
+  cd Task-Management-Application-with-Typescript-Project
+```
+3. In the terminal Use this code to start the application.
+```sh
+  npm start
+```
+
+   
+- Usage:
+Explore the different pages using the navigation bar or links provided.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
